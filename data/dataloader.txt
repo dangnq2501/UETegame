@@ -1,18 +1,18 @@
-#train_300dim
+# trainloader word_len=300 
 https://drive.google.com/file/d/1hD2vDmeGmlYEWbbudlD4Cjvexv0oRcj3/view?usp=sharing
-#test_300dim
+# testloader word_len=300 
 https://drive.google.com/file/d/1-2N38IRCoBUDnJ820YYqIfGQ4ccIpDzF/view?usp=sharing
-#train_drop_300dim
+# trainloader word_len=300 drop 100 most frequently
 https://drive.google.com/file/d/1-5xHq--M28c1J5tTY_jxmQEMlRrQQnHa/view?usp=sharing
-#test_drop_300dim_with_drop
+# testloader word_len=300 drop 100 most frequently
 https://drive.google.com/file/d/1-C9NhXOTHAvTCbaZYIVn9dtWdutCCxmL/view?usp=sharing
-#train_500dim
+# trainloader word_len=500 
 https://drive.google.com/file/d/1rwmrlsS5FTc3tI0U1gcVloxpSf3S-hRB/view?usp=sharing
-#test_500dim
+# testloader word_len=500
 https://drive.google.com/file/d/1-5i-GNrQ8ZF_nxd603GAe9USS_jzGINy/view?usp=sharing
-#train_drop_500dim
+# trainloader word_len=500 drop 100 most frequently
 https://drive.google.com/file/d/1-EBpjIaHi1zMB5tmKCEFzyF7Gwugb50L/view?usp=sharing
-#test_drop_500dim
+# testloader word_len=500 drop 100 most frequently
 https://drive.google.com/file/d/1-EHdWwyHeFSeY8MSLZTu8XNkn_pm5_P-/view?usp=sharing
 #demo 
 https://colab.research.google.com/drive/12-5vFsg8KUUI0B_OrwT7zKLUpFRzhwO3#scrollTo=lsPrW24VC8Ds
