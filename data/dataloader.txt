@@ -2,17 +2,17 @@
 https://drive.google.com/file/d/1hD2vDmeGmlYEWbbudlD4Cjvexv0oRcj3/view?usp=sharing
 # testloader word_len=300 
 https://drive.google.com/file/d/1-2N38IRCoBUDnJ820YYqIfGQ4ccIpDzF/view?usp=sharing
-# trainloader word_len=300 drop 100 most frequently
-https://drive.google.com/file/d/1-5xHq--M28c1J5tTY_jxmQEMlRrQQnHa/view?usp=sharing
-# testloader word_len=300 drop 100 most frequently
-https://drive.google.com/file/d/1-C9NhXOTHAvTCbaZYIVn9dtWdutCCxmL/view?usp=sharing
+# trainloader word_len=300 drop 50 most frequently
+https://drive.google.com/file/d/1EItFpT_YrUxr2y4AZSokweOz1zYNKu0l/view?usp=sharing
+# testloader word_len=300 drop 50 most frequently
+https://drive.google.com/file/d/1--4T6lz3kGWicFe9rOsA9bXAAuxHvkJp/view?usp=sharing
 # trainloader word_len=500 
 https://drive.google.com/file/d/1rwmrlsS5FTc3tI0U1gcVloxpSf3S-hRB/view?usp=sharing
 # testloader word_len=500
 https://drive.google.com/file/d/1-5i-GNrQ8ZF_nxd603GAe9USS_jzGINy/view?usp=sharing
-# trainloader word_len=500 drop 100 most frequently
-https://drive.google.com/file/d/1-EBpjIaHi1zMB5tmKCEFzyF7Gwugb50L/view?usp=sharing
-# testloader word_len=500 drop 100 most frequently
-https://drive.google.com/file/d/1-EHdWwyHeFSeY8MSLZTu8XNkn_pm5_P-/view?usp=sharing
+# trainloader word_len=500 drop 50 most frequently
+https://drive.google.com/file/d/1-2UY4mZDvMD_Fu-RzcJax8tXi1eI4eK4/view?usp=sharing
+# testloader word_len=500 drop 50 most frequently
+https://drive.google.com/file/d/1-4XdgQYPKhCpXIqqdBvfWyycC4jIq7df/view?usp=sharing
 #demo 
 https://colab.research.google.com/drive/12-5vFsg8KUUI0B_OrwT7zKLUpFRzhwO3#scrollTo=lsPrW24VC8Ds
