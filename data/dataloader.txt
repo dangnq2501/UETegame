@@ -1,7 +1,7 @@
 # trainloader word_len=300 
-https://drive.google.com/file/d/1hD2vDmeGmlYEWbbudlD4Cjvexv0oRcj3/view?usp=sharing
+https://drive.google.com/file/d/1KHfE7wlPbzAbwT7X_wyQc_sTmldt34wB/view?usp=sharing
 # testloader word_len=300 
-https://drive.google.com/file/d/1-2N38IRCoBUDnJ820YYqIfGQ4ccIpDzF/view?usp=sharing
+https://drive.google.com/file/d/1-6v09Y9rfKDfysIEZU5bWQ_W55vA2Qow/view?usp=sharing
 # trainloader word_len=300 drop 50 most frequently
 https://drive.google.com/file/d/1EItFpT_YrUxr2y4AZSokweOz1zYNKu0l/view?usp=sharing
 # testloader word_len=300 drop 50 most frequently
