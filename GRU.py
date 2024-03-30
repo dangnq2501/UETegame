@@ -151,8 +151,8 @@ class GRUmodel(nn.Module):
     def __init__(self):
         super().__init__()
 
-        self.rnn = nn.GRU(input_size = matrix_size[1],hidden_size = 256,
-            num_layers = 3, batch_first = True, bidirectional = True)
+        self.rnn = nn.GRU(input_size = matrix_size[1],hidden_size = 441,
+            num_layers = 3, batch_first = True, bidirectional = False)
 
         self.fc = nn.LazyLinear(out_features = 1)
 
@@ -170,10 +170,10 @@ class GRUmodel(nn.Module):
 device = 'cuda'
 model = GRUmodel().to(device)
 BCE_loss = nn.BCEWithLogitsLoss()
-Adam_optimizer = torch.optim.AdamW(params = model.parameters(),lr = 0.001)
+Adam_optimizer = torch.optim.AdamW(params = model.parameters(),lr = 0.0005)
 
 
-epochs = 75
+epochs = 50
 
 for epoch in range(0,epochs):
     print(f'Epoch {epoch}=======================================')
