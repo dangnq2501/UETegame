@@ -268,7 +268,3 @@ Use this space to list resources you find helpful and would like to give credit 
 [Bootstrap-url]: https://getbootstrap.com
 [JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
 [JQuery-url]: https://jquery.com 
-- Nguyễn Quý Đang 22022500
-- Nguyễn Nhật Minh 22022503
-- Nguyên Minh Nhật 22022537
-- Vũ Vân Long 22022501
