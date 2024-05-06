@@ -272,13 +272,13 @@ Use this space to list resources you find helpful and would like to give credit 
 [Java-Spring-url]: https://spring.io/
 [Java]: https://img.shields.io/badge/Java_Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white
 [React Native]: https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=white
-[PyTorch-badge]: https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white
+[PyTorch-badge]: https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white
 [PyTorch-url]: https://pytorch.org/
-[Jupyter-badge]: https://img.shields.io/badge/Jupyter-Notebook-F37626?logo=jupyter&logoColor=white
+[Jupyter-badge]: https://img.shields.io/badge/Jupyter-Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white
 [Jupyter-url]: https://jupyter.org/
-[Python-badge]: https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white
+[Python-badge]: https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
 [Python-url]: https://www.python.org/
-[Docker-badge]: https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white
+[Docker-badge]: https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white
 [Docker-url]: https://www.docker.com/
-[PostgreSQL-badge]: https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white
+[PostgreSQL-badge]: https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white
 [PostgreSQL-url]: https://www.postgresql.org/
