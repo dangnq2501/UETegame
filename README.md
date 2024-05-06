@@ -106,6 +106,12 @@ This section should list any major frameworks/libraries used to bootstrap your p
 * [![React][React.js]][React-url]
 * [![React][React Native]][React-native-url]
 * [![Java Spring][Java]][Java-Spring-url]
+* [![PyTorch][PyTorch-badge]][PyTorch-url]
+* [![Jupyter Notebook][Jupyter-badge]][Jupyter-url]
+* [![Python][Python-badge]][Python-url]
+* [![Docker][Docker-badge]][Docker-url]
+* [![PostgreSQL][PostgreSQL-badge]][PostgreSQL-url]
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -266,3 +272,13 @@ Use this space to list resources you find helpful and would like to give credit 
 [Java-Spring-url]: https://spring.io/
 [Java]: https://img.shields.io/badge/Java_Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white
 [React Native]: https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=white
+[PyTorch-badge]: https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white
+[PyTorch-url]: https://pytorch.org/
+[Jupyter-badge]: https://img.shields.io/badge/Jupyter-Notebook-F37626?logo=jupyter&logoColor=white
+[Jupyter-url]: https://jupyter.org/
+[Python-badge]: https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white
+[Python-url]: https://www.python.org/
+[Docker-badge]: https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white
+[Docker-url]: https://www.docker.com/
+[PostgreSQL-badge]: https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white
+[PostgreSQL-url]: https://www.postgresql.org/
