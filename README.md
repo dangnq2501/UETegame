@@ -83,18 +83,16 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[![TheraPose.ai][product-screenshot]](images/Screenshot.PNG)
 
-There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
+In a landscape of healthcare and rehabilitation apps, TheraPose.ai emerges as a game-changer. Designed specifically for individuals undergoing physical therapy, TheraPose.ai utilizes cutting-edge computer vision technology to provide invaluable support during their recovery journey.
 
-Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should implement DRY principles to the rest of your life :smile:
+Here's why TheraPose.ai is a standout solution:
 
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this template!
-
-Use the `BLANK_README.md` to get started.
+* Personalized rehabilitation: TheraPose.ai empowers patients to take control of their rehabilitation process by offering real-time feedback on their exercise performance. By accurately assessing their movements, the app ensures that patients are executing prescribed exercises correctly, minimizing the risk of further injury and maximizing therapeutic benefits.
+* Streamlined guidance: Say goodbye to uncertainty and guesswork. TheraPose.ai streamlines the rehabilitation process by offering clear, visual cues and corrections, guiding patients through each exercise with precision and clarity.
+* Empowering patients: With TheraPose.ai, patients can track their progress over time, witnessing tangible improvements in their mobility and strength. This visual representation of progress serves as a powerful motivator, encouraging patients to stay dedicated to their therapy regimen.
+While TheraPose.ai may not cater to every individual's specific therapy needs, it serves as a comprehensive and reliable tool for patients seeking to optimize their rehabilitation experience. We're committed to continually enhancing the app's features and functionalities and welcome contributions and feedback from the community. Together, we can make TheraPose.ai the ultimate companion for patients on their path to recovery.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
