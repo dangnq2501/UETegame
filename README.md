@@ -205,9 +205,9 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
+Nguyen Quy Dang - [@your_twitter](https://twitter.com/dangnq2501) - dangnq2501@gmail.com
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Project Link: [https://github.com/your_username/repo_name](https://github.com/dangnq2501/TheraPose.ai)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
