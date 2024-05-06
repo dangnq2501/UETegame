@@ -235,13 +235,13 @@ Use this space to list resources you find helpful and would like to give credit 
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/dangnq2501/TheraPose.ai.svg?style=for-the-badge
 [contributors-url]: https://github.com/othneildrew/Best-README-Template/graphs/contributors](https://github.com/dangnq2501/TheraPose.ai/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
+[forks-shield]: https://img.shields.io/github/forks/dangnq2501/TheraPose.ai.svg?style=for-the-badge
 [forks-url]: https://github.com/dangnq2501/TheraPose.ai/network/members
-[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
+[stars-shield]: https://img.shields.io/github/stars/dangnq2501/TheraPose.ai.svg?style=for-the-badge
 [stars-url]: https://github.com/dangnq2501/TheraPose.ai/stargazers 
-[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
+[issues-shield]: https://img.shields.io/github/issues/dangnq2501/TheraPose.ai.svg?style=for-the-badge
 [issues-url]: https://github.com/dangnq2501/TheraPose.ai/issues
-[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
+[license-shield]: https://img.shields.io/github/license/dangnq2501/TheraPose.ai.svg?style=for-the-badge
 [license-url]: https://github.com/dangnq2501/TheraPose.ai/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/nhatdo94
@@ -264,3 +264,5 @@ Use this space to list resources you find helpful and would like to give credit 
 [JQuery-url]: https://jquery.com 
 [React-native-url]: https://reactnative.dev/
 [Java-Spring-url]: https://spring.io/
+[Java]: https://img.shields.io/badge/Java_Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white
+[React Native]: https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=white
