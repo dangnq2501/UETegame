@@ -1,4 +1,4 @@
-# INT2208
+# TheraPose.ai
 - Nguyễn Quý Đang 22022500
 - Nguyễn Nhật Minh 22022503
 - Nguyên Minh Nhật 22022537
