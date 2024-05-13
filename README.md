@@ -96,7 +96,21 @@ While TheraPose.ai may not cater to every individual's specific therapy needs, i
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
+### Persona
+#### Name: Anh Tuan
+#### Characteristics:
+Age: 45
+Health Status: Undergoing physical therapy treatment following a traffic accident.
+Location: Hanoi, Vietnam
+####  Needs and Goals:
+Anh Tuan is a patient undergoing physical therapy treatment who often needs to perform exercises and movements as instructed by doctors or physical therapists.
+He requires an app to remotely submit physical therapy exercises, through which he can receive feedback and guidance from healthcare professionals conveniently and effectively.
+#### Habits and Preferences:
+Anh Tuan often feels tired and has difficulty moving due to injuries from the traffic accident, so he needs an easy-to-use remote app that doesn't require him to travel to the hospital or physical therapy clinic.
+He prefers an interface that is user-friendly and visually intuitive, helping him easily perform physical therapy exercises and submit results to healthcare professionals.
+#### Challenges and Issues:
+Anh Tuan struggles to perform physical therapy exercises correctly and adequately each day.
+He feels lonely and helpless without frequent support and guidance from healthcare professionals.
 
 ### Built With
 
