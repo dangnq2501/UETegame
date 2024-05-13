@@ -115,6 +115,32 @@ He feels lonely and helpless without frequent support and guidance from healthca
 - As a patient, I want to easily access the app on my smartphone so that I can submit my physical therapy exercises from my home.
 - As a doctor, I want to access a dashboard displaying a list of my patients and their completed physical therapy exercises so that I can easily track their progress and adherence to the treatment plan.
 
+### Non-Functional Requirements
+
+#### Security
+- The app must comply with industry standards for data encryption and protection to ensure the confidentiality and integrity of patients' personal health information.
+- User authentication mechanisms, such as passwords or biometric authentication, must be implemented to prevent unauthorized access to patient data.
+
+#### Reliability
+- The app must be available and accessible to users 24/7 with minimal downtime for maintenance or updates.
+- It should have mechanisms in place to handle errors gracefully and provide appropriate feedback to users in case of system failures or disruptions.
+
+#### Performance
+- The app should have fast response times for loading content, submitting exercises, and accessing patient data to provide a seamless user experience.
+- It must be able to handle a large number of concurrent users and scale effectively to accommodate increasing user demand without degradation in performance.
+
+#### Usability
+- The app should have an intuitive and user-friendly interface that is easy to navigate for both patients and doctors.
+- It should support multiple languages and be accessible to users with disabilities, following accessibility guidelines such as WCAG (Web Content Accessibility Guidelines).
+
+#### Scalability
+- The app architecture should be designed to scale horizontally and vertically to support the growing number of users and data volume over time.
+- It should be able to handle spikes in user traffic during peak hours or promotional events without impacting performance.
+
+#### Interoperability
+- The app should be compatible with various devices and platforms, including smartphones, tablets, and desktop computers, running different operating systems such as iOS, Android, and web browsers.
+- It should support integration with external systems or healthcare databases to exchange patient information and medical records securely.
+
 ### Built With
 
 This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
