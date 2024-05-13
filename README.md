@@ -111,6 +111,9 @@ He prefers an interface that is user-friendly and visually intuitive, helping hi
 #### Challenges and Issues:
 Anh Tuan struggles to perform physical therapy exercises correctly and adequately each day.
 He feels lonely and helpless without frequent support and guidance from healthcare professionals.
+### User stories
+- As a patient, I want to easily access the app on my smartphone so that I can submit my physical therapy exercises from my home.
+- As a doctor, I want to access a dashboard displaying a list of my patients and their completed physical therapy exercises so that I can easily track their progress and adherence to the treatment plan.
 
 ### Built With
 
