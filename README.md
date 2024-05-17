@@ -96,7 +96,50 @@ While TheraPose.ai may not cater to every individual's specific therapy needs, i
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+### Persona
+#### Name: Anh Tuan
+#### Characteristics:
+Age: 45
+Health Status: Undergoing physical therapy treatment following a traffic accident.
+Location: Hanoi, Vietnam
+####  Needs and Goals:
+Anh Tuan is a patient undergoing physical therapy treatment who often needs to perform exercises and movements as instructed by doctors or physical therapists.
+He requires an app to remotely submit physical therapy exercises, through which he can receive feedback and guidance from healthcare professionals conveniently and effectively.
+#### Habits and Preferences:
+Anh Tuan often feels tired and has difficulty moving due to injuries from the traffic accident, so he needs an easy-to-use remote app that doesn't require him to travel to the hospital or physical therapy clinic.
+He prefers an interface that is user-friendly and visually intuitive, helping him easily perform physical therapy exercises and submit results to healthcare professionals.
+#### Challenges and Issues:
+Anh Tuan struggles to perform physical therapy exercises correctly and adequately each day.
+He feels lonely and helpless without frequent support and guidance from healthcare professionals.
+### User stories
+- As a patient, I want to easily access the app on my smartphone so that I can submit my physical therapy exercises from my home.
+- As a doctor, I want to access a dashboard displaying a list of my patients and their completed physical therapy exercises so that I can easily track their progress and adherence to the treatment plan.
 
+### Non-Functional Requirements
+
+#### Security
+- The app must comply with industry standards for data encryption and protection to ensure the confidentiality and integrity of patients' personal health information.
+- User authentication mechanisms, such as passwords or biometric authentication, must be implemented to prevent unauthorized access to patient data.
+
+#### Reliability
+- The app must be available and accessible to users 24/7 with minimal downtime for maintenance or updates.
+- It should have mechanisms in place to handle errors gracefully and provide appropriate feedback to users in case of system failures or disruptions.
+
+#### Performance
+- The app should have fast response times for loading content, submitting exercises, and accessing patient data to provide a seamless user experience.
+- It must be able to handle a large number of concurrent users and scale effectively to accommodate increasing user demand without degradation in performance.
+
+#### Usability
+- The app should have an intuitive and user-friendly interface that is easy to navigate for both patients and doctors.
+- It should support multiple languages and be accessible to users with disabilities, following accessibility guidelines such as WCAG (Web Content Accessibility Guidelines).
+
+#### Scalability
+- The app architecture should be designed to scale horizontally and vertically to support the growing number of users and data volume over time.
+- It should be able to handle spikes in user traffic during peak hours or promotional events without impacting performance.
+
+#### Interoperability
+- The app should be compatible with various devices and platforms, including smartphones, tablets, and desktop computers, running different operating systems such as iOS, Android, and web browsers.
+- It should support integration with external systems or healthcare databases to exchange patient information and medical records securely.
 
 ### Built With
 
