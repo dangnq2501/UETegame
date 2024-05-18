@@ -31,7 +31,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/Capture.PNG" alt="Logo">
+    <img src="images/Capture.jpeg" alt="Logo">
   </a>
 
   <h3 align="center">TheraPose.ai</h3>
