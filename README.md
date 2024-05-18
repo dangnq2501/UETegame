@@ -34,7 +34,7 @@
     <img src="images/Capture.jpeg" alt="Logo">
   </a>
 
-  <h3 align="center">TheraPose.ai</h3>
+  <h3 align="center">UET AI ASSISTANT</h3>
 
   <p align="center">
     First AI personal therapist solution !
@@ -83,7 +83,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-<img src="images/Screenshot.PNG" alt="Logo">
+<img src="images/Subscene.png" alt="Logo">
 
 In a landscape of healthcare and rehabilitation apps, TheraPose.ai emerges as a game-changer. Designed specifically for individuals undergoing physical therapy, TheraPose.ai utilizes cutting-edge computer vision technology to provide invaluable support during their recovery journey.
 
