@@ -87,8 +87,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-<img src="images
-/441059179_464138612770429_2748803241163572862_n.png" alt="Logo">
+<img src="images/441059179_464138612770429_2748803241163572862_n.png" alt="Logo">
 
 ## Key Features
 
