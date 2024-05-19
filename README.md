@@ -31,10 +31,10 @@
 <br />
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/Icon.png" alt="Logo">
+    <img src="images/Group 27 (1).png" alt="Logo">
   </a>
 
-  <h3 align="center">UET AI ASSISTANT</h3>
+  <h3 align="center">UETegame</h3>
 
   <p align="center">
     First AI personal therapist solution !
