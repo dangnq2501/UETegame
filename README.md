@@ -31,7 +31,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/Capture.jpeg" alt="Logo">
+    <img src="images/icon.png" alt="Logo">
   </a>
 
   <h3 align="center">UET AI ASSISTANT</h3>
