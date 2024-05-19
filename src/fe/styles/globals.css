@@ -1,0 +1,75 @@
+@import url('https://rsms.me/inter/inter.css');
+@import url('https://fonts.googleapis.com/css2?family=VT323&display=swap');
+
+@font-face {
+  font-family: "Andy";
+  src: url(/fonts/ANDYB.TTF);
+}
+
+@font-face {
+  font-family: "FVF_Fernando_08";
+  src: url(/fonts/FVF_Fernando_08.ttf);
+}
+
+@font-face {
+  font-family: "Pixel";
+  src: url(/fonts/FVF_Fernando_08.ttf);
+}
+
+html,
+body {
+  padding: 0;
+  margin: 0;
+  font-family: 'Poppins', sans-serif;
+  height: 100%;
+  background-color: #F0F4FF;
+  scroll-behavior: smooth;
+}
+
+a {
+  color: #27272E;
+  text-decoration: none;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.nav_bold {
+  color: #fff;
+}
+
+.footer_bold {
+  color: #BCDCFF;
+}
+
+.triggered {
+  background-color: #4C6FFF;
+  color: #fff;
+  box-shadow: 0px 3px 1px -2px rgb(0 0 0 / 20%), 0px 2px 2px 0px rgb(0 0 0 / 14%), 0px 1px 5px 0px rgb(0 0 0 / 12%);
+}
+
+.fadeOut {
+  opacity: 0;
+  width: 0;
+  height: 0;
+  transition: width 0.5s 0.5s, height 0.5s 0.5s, opacity 0.5s;
+
+}
+
+.fadeIn {
+  opacity: 1;
+  width: 100px;
+  height: 100px;
+  transition: width 0.5s, height 0.5s, opacity 0.5s 0.5s;
+}
+
+.MainFeatureTitle {
+  background: linear-gradient(214deg, #0698F9 0%, #F906F9 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.invisible {
+  visibility: hidden;
+}

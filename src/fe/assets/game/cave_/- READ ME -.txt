@@ -1,0 +1,28 @@
+
+                                                              - READ ME -  
+
+Thank you for using the cave_...part of the fantasy_ series' of assets on itch.io!
+
+Stuff to know - Tilesets
+
+- Each tile is 16x16 pixels...although some objects/structures are 16x32/32x16/32x32...[e.g. fountain, portal & big mushrooms]
+- Each tileset has a 1 tile [16x16 pixels] border
+- Fence gates have a closed, open one-way & open other-way states [horizontal and vertical]
+
+Stuff to know - Animations
+
+- Each animation is 4 frames
+- Bridge animations are in a seperate tileset [caveStructures_ [bridgeAnimation]] to the static bridge tiles [caveStructures_ [fountainPortalBridge]
+
+Future updates - 
+
+- Big ores
+- Land bridges
+
+If you have any questions or requests you can contact me at analogstudios.inc@gmail.com
+
+
+
+
+
+                                                             

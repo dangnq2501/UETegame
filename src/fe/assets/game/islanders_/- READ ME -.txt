@@ -1,0 +1,20 @@
+
+
+                                                         - READ ME -  
+
+
+Thank you for using the islanders_...part of the islands_ series' of assets on itch.io!
+
+
+Stuff to know - 
+
+- Each frame is 16x16 pixels [except for snail_, which is 16x24]
+- Character animations [from top to bottom]
+  - islander_
+    - idle, run, jump, attack_0, attack_1 & hit
+  - mushroom_
+    - idle/run, attack & hit
+  - snail_
+    - idle, run, hide_0, hide_1 & hit
+
+If you have any questions or requests you can contact me at analogstudios.inc@gmail.com
