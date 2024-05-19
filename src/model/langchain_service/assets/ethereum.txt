@@ -1,0 +1,117 @@
+April 2021
+The world computer 
+Introduction to Ethereum (ETH)
+For Professional clients only
+WisdomTree.eu +44 (0) 207 448 4330
+WisdomTree INTRODUCTION TO ETHEREUM 2
+Ether is the second largest cryptocurrency by market capitalization behind bitcoin. Its current market cap stands 
+at 290.69 billion USD, representing approximately 14% of the total cryptocurrency market1
+. 
+Imagined in 2013, and created in 2015, the blockchain network Ethereum has grown in innovation and utility. 
+Different from Bitcoin’s primary function as a peer-to-peer electronic cash system, Ethereum invents a new world 
+of peer-to-peer applications.
+Before we dive into details, it’s important to distinguish ether (ETH) from Ethereum. Ether refers to the 
+cryptocurrency used on the Ethereum blockchain. Ethereum refers to the blockchain network. 
+What’s Ethereum? 
+Ethereum is a blockchain platform that handles programs and applications without relying on a centralized party. 
+It is “the world’s programmable blockchain2
+”. 
+The platform is built on the public, open-source, decentralized, and cryptographic blockchain technology. It 
+powers decentralized applications (dApps) that are supported by a transaction protocol called smart contract. 
+With its collective computing power on the distributed network (the Ethereum Virtual Machine), it executes 
+peer-to-peer transactions to realize automatic, conditional transfer of value and information, including money, 
+voting rights, and property. 
+Ethereum can be compared to a “world computer” on a blockchain, where the underlying blockchain technology 
+is the virtual machine’s hard drive, smart contracts are programs, miners are CPUs, and users pay with ETH to 
+use this “computer”.
+1 On April 15th, 2021
+2 https://ethereum.org/en/what-is-ethereum
+Clients Users
+Smart Contracts Programs
+Miners CPUs
+Blockchain Hard Drive
+ETHEREUM COMPUTER
+For Professional clients only
+WisdomTree.eu +44 (0) 207 448 4330
+WisdomTree INTRODUCTION TO ETHEREUM 3
+Solving the Problem
+Ethereum’s invention is inspired by Bitcoin. 
+Bitcoin established the foundation for decentralized blockchain technology. But its functionality is limited to 
+peer-to-peer electronic cash transfer. Ethereum expands upon Bitcoin’s functionality to programmable apps. 
+Essentially, it aims to create a decentralized computer network to run various applications. To borrow its founder 
+Vitalik Buterin’s metaphor: Bitcoin is like a calculator, but Ethereum wants to become a smart phone running 
+many applications3
+.
+This decentralized network would automate decisions and transactions, thus reducing the need for a trusted 
+central party. It can lower the need for intermediaries, reduce arbitrations costs, prevent fraud, and minimize 
+accidental incidents.
+How Does Ethereum Work? 
+SMART CONTRACTS 
+At the core of Ethereum are smart contracts. 
+Smart contracts are one of the two types of Ethereum accounts in which a set of instructions is programmed 
+to tell the system what to do. Nick Szabo, developer of the concept, often compared it to the codes behind 
+vending machines.
+A smart contract is executed when triggered by a transaction. In the example of a vending machine, the 
+transaction is when users insert a coin. Once the smart contract is triggered, actions are executed based on the 
+“if…then…” conditions embedded in the smart contract code. 
+For example, by pressing a combination of buttons on a vending machine, a bottle of water would get dropped. 
+The specific good that gets dropped in the vending machine is the outcome of the smart contract. On the 
+Ethereum network, that could be either a value transfer of ETH to another account, or a transaction to trigger 
+another smart contract. 
+3 Vitalik mentioned this metaphor during a speech he gave on October 10th, 2016, called “Ethereum in
+25 Minutes.”
+For Professional clients only
+WisdomTree.eu +44 (0) 207 448 4330
+WisdomTree INTRODUCTION TO ETHEREUM 4
+A smart contract abides by a pre-defined set of rules, that allows it to automatically execute code the same way 
+on any Ethereum node on the network. This eliminates the need for a third party to carry out code execution 
+on behalf of users, making the system decentralized. It empowers coders to create a wide range of applications 
+layering together different smart contracts. 
+To provide a concrete example, consider Etherisc, a decentralized insurance application on the Ethereum 
+network. Members can purchase insurance directly on the application with its native token. Then, a pool of 
+money is established, aggregating insurance payments from all members. When a disaster hits, payouts will 
+be made to impacted members without the need to go through traditional insurance industry’s cumbersome 
+reimbursement process. Crop insurance for example, could automatically pay out money if drought or flood 
+events are reported in the area by government agencies. 
+GAS
+Fees need to be paid in ETH to miners in order to facilitate transactions and execute smart contracts. The fee 
+that’s charged is called gas. Gas price is often a small fraction of ETH, which is denoted in the unit of Gwei 
+(109
+ Gwei = 1 ETH). 
+Gas is essential in sustaining the Ethereum network. It motivates miners to process and verify transactions for 
+a monetary reward. The amount of gas needed in a transaction is roughly equivalent to the value of energy 
+needed plus a small transaction fee. Gas price fluctuates with supply and demand for processing power since 
+miners can choose to not process transactions when gas prices are low.
+Gas has another important function in preventing unintentional waste of energy. Because the coding language 
+for Ethereum is Turing-complete, there is a possibility of a program running indefinitely, and a transaction can be 
+left consuming a lot of energy. A gas limit is imposed as the maximum price users are willing to pay to facilitate 
+transactions. When gas runs out, the program will be terminated, and no additional energy would be used. 
+APPLICATIONS
+Ethereum’s applications take advantage of blockchain technology’s decentralized and immutable nature. They 
+can be created and contributed to by anyone, without tempering the system’s security. Their functions range 
+widely. Here are a few important examples:
++ Decentralized Finance (DeFi): DeFi aims to build an open and global financial system that can be 
+accessed by anyone with access to the Internet. Unlike the trust-based finance industry or FinTech, 
+DeFi is trust-minimized, meaning that the system’s operation does not rely on any single individual 
+entity but owned by their users. This structure enables it to be accessible on-demand, transparent, 
+and potentially faster and cheaper. It connects peer-to-peer supply and demand, eliminating the 
+need for intermediaries. 
+DeFi’s functionalities have grown to become a financial ecosystem since its launch. Now, users can 
+borrow, lend, invest, trade, earn interest, buy insurance, and transfer money like they would in the 
+traditional financial system. 
++ Decentralized Autonomous Organization (DAO): A DAO refers to an organization without a third party 
+that is established for a common purpose. This organization operates and collaborates through a 
+shared, defined, and automated protocol to ensure all group members’ voices are heard and the 
+decision-making process is transparent. Each DAO has an embedded treasury in which the funds are 
+stored, and the funds are spent according to decisions made by members’ voting. 
+For Professional clients only
+WisdomTree.eu +44 (0) 207 448 4330
+WisdomTree INTRODUCTION TO ETHEREUM 5
+ One of the examples of DAO is a decentralized venture capital fund named “The DAO” launched 
+in 2016. Members could purchase DAO tokens to gain rights to vote on investment proposals. If 
+the voted project became profitable, members would be given a return according to their stakes. 
+Although the DAO was an innovative idea, it failed due to a bug that existed in its smart contract code. 
+Hackers stole a portion of the organization’s funds. This event resulted in a decision to implement a 
+hard fork on the Ethereum network, creating a branch called Ethereum Classic. Other examples of a 
+DAO have continued to successfully operate. MakerDAO enables the continued generation of Dai, a 
+decentralized stablecoin.

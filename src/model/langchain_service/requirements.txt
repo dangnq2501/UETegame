@@ -1,0 +1,7 @@
+python-docx
+Flask
+flask-cors
+openai
+python-dotenv
+langchain
+tiktoken
