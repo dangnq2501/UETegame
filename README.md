@@ -99,7 +99,7 @@ While TheraPose.ai may not cater to every individual's specific therapy needs, i
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-## Persona:
+### Persona:
 
 **Name:** Minh Nguyen  
 **Age:** 25  
@@ -112,7 +112,7 @@ Minh is a passionate software engineering student who is constantly seeking oppo
 **Habits:**  
 Minh is a self-disciplined individual with a high sense of responsibility towards his studies. He dedicates a portion of his daily time to revise and reinforce his knowledge. Minh enjoys leveraging technology to aid his learning process and is eager to explore new apps to find the most suitable solution for his learning needs.
 
-## User Stories:
+### User Stories:
 
 1. As a user, I want an app that provides multiple-choice questions on various topics to assess my knowledge.
 2. As a user, I want the app to generate quizzes automatically from a list of provided questions.
@@ -120,7 +120,7 @@ Minh is a self-disciplined individual with a high sense of responsibility toward
 4. As a user, I want the app to provide hints or explanations for questions I answered incorrectly to learn from my mistakes.
 5. As a user, I want the app to store the results of my quizzes or games to track my learning progress.
 
-## Non-functional Requirements:
+### Non-functional Requirements:
 
 1. **Performance:** The app must have quick response times to ensure users do not experience long waits while taking quizzes or playing games.
 2. **Compatibility:** The app should be compatible with popular mobile devices and operating systems such as iOS and Android.
