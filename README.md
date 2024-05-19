@@ -48,7 +48,7 @@
     ·
     <a href="https://github.com/othneildrew/Best-README-Template/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
     .
-    <a href="https://www.testeria.games/dashboard">UET-ASSISTANT</a>	
+    <a href="">UETegame</a>	
   </p>
 </div>
 
@@ -87,7 +87,8 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-<img src="images/Subscene.png" alt="Logo">
+<img src="images
+/441059179_464138612770429_2748803241163572862_n.png" alt="Logo">
 
 ## Key Features
 
