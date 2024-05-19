@@ -26,13 +26,14 @@
     <a href="https://github.com/othneildrew/Best-README-Template/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
     ·
     <a href="https://github.com/othneildrew/Best-README-Template/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
+    <a href="https://www.testeria.games/dashboard">UET-ASSISTANT</a>
   </p>
 </div>
 
 <!-- <h1 align="center">
   <br>
 <!-- <img src="images/Capture.jpeg" alt="UET-ASSISTANT" width="200"> -->
-  <a href="https://www.testeria.games/dashboard">UET-ASSISTANT</a>
+  <!-- <a href="https://www.testeria.games/dashboard">UET-ASSISTANT</a>
 </h1> -->
 
 <h4 align="center">A website provides tools for teachers to automatically converted question files to RPG games. built on top of <a href="https://nextjs.org/" target="_blank">NextJS</a>.</h4>
