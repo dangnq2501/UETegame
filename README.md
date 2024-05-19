@@ -50,278 +50,129 @@
   </p>
 </div>
 
+<h1 align="center">
+  <br>
+<!-- <img src="images/Capture.jpeg" alt="UET-ASSISTANT" width="200"> -->
+  <a href="https://www.testeria.games/dashboard">UET-ASSISTANT</a>
+</h1>
 
+<h4 align="center">A website provides tools for teachers to automatically converted question files to RPG games. built on top of <a href="https://nextjs.org/" target="_blank">NextJS</a>.</h4>
 
-<!-- TABLE OF CONTENTS -->
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
-  </ol>
-</details>
-
+<p align="center">
+  <a href="#key-features">Key Features</a> •
+  <a href="#how-to-use">How To Use</a> •
+<!--   <a href="#download">Download</a> • -->
+  <a href="#credits">Credits</a> •
+<!--   <a href="#related">Related</a> • -->
+  <a href="#authors">Authors</a>
+</p>
 
-
-<!-- ABOUT THE PROJECT -->
-## About The Project
-
-<img src="images/Subscene.png" alt="Logo">
-
-In a landscape of healthcare and rehabilitation apps, TheraPose.ai emerges as a game-changer. Designed specifically for individuals undergoing physical therapy, TheraPose.ai utilizes cutting-edge computer vision technology to provide invaluable support during their recovery journey.
-
-Here's why TheraPose.ai is a standout solution:
-
-* Personalized rehabilitation: TheraPose.ai empowers patients to take control of their rehabilitation process by offering real-time feedback on their exercise performance. By accurately assessing their movements, the app ensures that patients are executing prescribed exercises correctly, minimizing the risk of further injury and maximizing therapeutic benefits.
-* Streamlined guidance: Say goodbye to uncertainty and guesswork. TheraPose.ai streamlines the rehabilitation process by offering clear, visual cues and corrections, guiding patients through each exercise with precision and clarity.
-* Empowering patients: With TheraPose.ai, patients can track their progress over time, witnessing tangible improvements in their mobility and strength. This visual representation of progress serves as a powerful motivator, encouraging patients to stay dedicated to their therapy regimen.
-While TheraPose.ai may not cater to every individual's specific therapy needs, it serves as a comprehensive and reliable tool for patients seeking to optimize their rehabilitation experience. We're committed to continually enhancing the app's features and functionalities and welcome contributions and feedback from the community. Together, we can make TheraPose.ai the ultimate companion for patients on their path to recovery.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-### Persona
-#### Name: Anh Tuan
-#### Characteristics:
-Age: 45
-Health Status: Undergoing physical therapy treatment following a traffic accident.
-Location: Hanoi, Vietnam
-####  Needs and Goals:
-Anh Tuan is a patient undergoing physical therapy treatment who often needs to perform exercises and movements as instructed by doctors or physical therapists.
-He requires an app to remotely submit physical therapy exercises, through which he can receive feedback and guidance from healthcare professionals conveniently and effectively.
-#### Habits and Preferences:
-Anh Tuan often feels tired and has difficulty moving due to injuries from the traffic accident, so he needs an easy-to-use remote app that doesn't require him to travel to the hospital or physical therapy clinic.
-He prefers an interface that is user-friendly and visually intuitive, helping him easily perform physical therapy exercises and submit results to healthcare professionals.
-#### Challenges and Issues:
-Anh Tuan struggles to perform physical therapy exercises correctly and adequately each day.
-He feels lonely and helpless without frequent support and guidance from healthcare professionals.
-### User stories
-- As a patient, I want to easily access the app on my smartphone so that I can submit my physical therapy exercises from my home.
-- As a doctor, I want to access a dashboard displaying a list of my patients and their completed physical therapy exercises so that I can easily track their progress and adherence to the treatment plan.
+<!-- ![screenshot](./read_me_src/testeria_home.png) -->
 
-### Non-Functional Requirements
+## Key Features
 
-#### Security
-- The app must comply with industry standards for data encryption and protection to ensure the confidentiality and integrity of patients' personal health information.
-- User authentication mechanisms, such as passwords or biometric authentication, must be implemented to prevent unauthorized access to patient data.
+* Gamify boring questions
+  - With this feature, teachers can pass in boring question files and Testeria will automatically convert it to fun card games to make students pay attention to the lesson. 
+* Hero profile
+  - Just like a character in a RPG game, each user will earn coins as a reward when finish the quiz game with high score. User can use coins to buy gun, skin for their own character.
+* Quiz game:
+  - The questions from teacher files will be transformed into a card game that take idea from dungeon. User's character have to choose which card to take. 
+  - If user choose monster card, a question will pop up and the animation of hero slaying monster will be played if user choose the correct answer.
+  - If user choose buff card, special buff will be given such as increasing health, increasing damage.
+* Clan: 
+  - A place where many players can join and experience clan games to gain coins and knownledge. Players can also contribute their own questions to clan.
+  - Can be used by teachers for their class to track each student progress and accuracy to support them.
+* Generated questions from documents: 
+  - Reduce the time needed to prepare questions by summarizing documents and then return a list of questions related to the documents.
 
-#### Reliability
-- The app must be available and accessible to users 24/7 with minimal downtime for maintenance or updates.
-- It should have mechanisms in place to handle errors gracefully and provide appropriate feedback to users in case of system failures or disruptions.
+## Future Features
+- [ ] Review game - Players can join older games to review their lessons and pratice.
+- [ ] Implement new enviroments, mobs.
+- [ ] Increase types of answer.
+- [ ] Imporve scalability.
+- [ ] Reduce the time to convert question files to game.
 
-#### Performance
-- The app should have fast response times for loading content, submitting exercises, and accessing patient data to provide a seamless user experience.
-- It must be able to handle a large number of concurrent users and scale effectively to accommodate increasing user demand without degradation in performance.
+## Persona:
 
-#### Usability
-- The app should have an intuitive and user-friendly interface that is easy to navigate for both patients and doctors.
-- It should support multiple languages and be accessible to users with disabilities, following accessibility guidelines such as WCAG (Web Content Accessibility Guidelines).
+**Name:** Minh Nguyen  
+**Age:** 25  
+**Occupation:** Software Engineering Student  
+**Interests:** Learning and self-improvement  
 
-#### Scalability
-- The app architecture should be designed to scale horizontally and vertically to support the growing number of users and data volume over time.
-- It should be able to handle spikes in user traffic during peak hours or promotional events without impacting performance.
+**Reason for Using the App:**  
+Minh is a passionate software engineering student who is constantly seeking opportunities to enhance his knowledge and skills. He regularly participates in online courses and self-studies through books and online resources. Minh believes that using a learning app can help him to flexibly and engagingly self-assess his knowledge.
 
-#### Interoperability
-- The app should be compatible with various devices and platforms, including smartphones, tablets, and desktop computers, running different operating systems such as iOS, Android, and web browsers.
-- It should support integration with external systems or healthcare databases to exchange patient information and medical records securely.
+**Habits:**  
+Minh is a self-disciplined individual with a high sense of responsibility towards his studies. He dedicates a portion of his daily time to revise and reinforce his knowledge. Minh enjoys leveraging technology to aid his learning process and is eager to explore new apps to find the most suitable solution for his learning needs.
 
-### Built With
+## User Stories:
 
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
+1. As a user, I want an app that provides multiple-choice questions on various topics to assess my knowledge.
+2. As a user, I want the app to generate quizzes automatically from a list of provided questions.
+3. As a user, I want to play quiz games to both entertain myself and enhance my knowledge.
+4. As a user, I want the app to provide hints or explanations for questions I answered incorrectly to learn from my mistakes.
+5. As a user, I want the app to store the results of my quizzes or games to track my learning progress.
 
-* [![Next][Next.js]][Next-url]
-* [![React][React.js]][React-url]
-* [![React][React Native]][React-native-url]
-* [![Java Spring][Java]][Java-Spring-url]
-* [![PyTorch][PyTorch-badge]][PyTorch-url]
-* [![Jupyter Notebook][Jupyter-badge]][Jupyter-url]
-* [![Python][Python-badge]][Python-url]
-* [![Docker][Docker-badge]][Docker-url]
-* [![PostgreSQL][PostgreSQL-badge]][PostgreSQL-url]
+## Non-functional Requirements:
 
+1. **Performance:** The app must have quick response times to ensure users do not experience long waits while taking quizzes or playing games.
+2. **Compatibility:** The app should be compatible with popular mobile devices and operating systems such as iOS and Android.
+3. **User Interface:** The app's interface should be user-friendly, easy to navigate, and visually appealing to attract users.
+4. **Security:** Personal data and user results must be securely protected to prevent unauthorized access.
+5. **Reliability:** The app should operate stably and reliably without frequent errors or disruptions.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+## How To Use
 
+To clone and run this application, you'll need [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/download/) (which comes with [npm](http://npmjs.com)) installed on your computer. From your command line:
 
+```bash
+# Clone this repository
+$ git clone https://github.com/or2er/iai-hackathon-2023-frontend.git
 
-<!-- GETTING STARTED -->
-## Getting Started
+# Install dependencies
+$ npm install
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+# Run the app
+$ npm run dev
+```
 
-### Prerequisites
+> **Note**
+> If you're using Linux Bash for Windows, [see this guide](https://www.howtogeek.com/261575/how-to-run-graphical-linux-desktop-applications-from-windows-10s-bash-shell/) or use `node` from the command prompt.
 
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
 
-### Installation
+## Emailware
 
-_Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
+Testeria is an [emailware](https://en.wiktionary.org/wiki/emailware). Meaning, if you liked using this app or it has helped you in any way, I'd like you send me an email at <maivannhatminh2005@gmail.com> about anything you'd want to say about this software. I'd really appreciate it!
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
-   ```sh
-   git clone https://github.com/your_username_/Project-Name.git
-   ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
-   ```
+## Credits
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+This software uses the following open source packages:
 
+- [NextJS](https://nextjs.org/)
+- [Node.js](https://nodejs.org/)
+- [MaterialUI](https://mui.com/)
 
+<!-- ## Support
 
-<!-- USAGE EXAMPLES -->
-## Usage
+<a href="https://www.buymeacoffee.com/5Zn8Xh3l9" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/purple_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+<p>Or</p> 
 
-_For more examples, please refer to the [Documentation](https://example.com)_
+<a href="https://www.patreon.com/amitmerchant">
+	<img src="https://c5.patreon.com/external/logo/become_a_patron_button@2x.png" width="160">
+</a> -->
+<!-- 
+## You may also like...
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+- [Pomolectron](https://github.com/amitmerchant1990/pomolectron) - A pomodoro app
+- [Correo](https://github.com/amitmerchant1990/correo) - A menubar/taskbar Gmail App for Windows and macOS -->
 
+## Authors
 
+- Đỗ Minh Nhật - 22022537
+- Nguyễn Quý Đang - 22022500
+- Vũ Vân Long - 22022501
+- Nguyễn Nhật Minh - 22022503
 
-<!-- ROADMAP -->
-## Roadmap
+---
 
-- [x] Add Changelog
-- [x] Add back to top links
-- [ ] Add Additional Templates w/ Examples
-- [ ] Add "components" document to easily copy & paste sections of the readme
-- [ ] Multi-language Support
-    - [ ] Chinese
-    - [ ] Spanish
-
-See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a full list of proposed features (and known issues).
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- CONTRIBUTING -->
-## Contributing
-
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
-Don't forget to give the project a star! Thanks again!
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- LICENSE -->
-## License
-
-Distributed under the MIT License. See `LICENSE.txt` for more information.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- CONTACT -->
-## Contact
-
-Nguyen Quy Dang - [@your_twitter](https://twitter.com/dangnq2501) - dangnq2501@gmail.com
-
-Project Link: [https://github.com/your_username/repo_name](https://github.com/dangnq2501/TheraPose.ai)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- ACKNOWLEDGMENTS -->
-## Acknowledgments
-
-Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
-
-* [Choose an Open Source License](https://choosealicense.com)
-* [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
-* [Malven's Flexbox Cheatsheet](https://flexbox.malven.co/)
-* [Malven's Grid Cheatsheet](https://grid.malven.co/)
-* [Img Shields](https://shields.io)
-* [GitHub Pages](https://pages.github.com)
-* [Font Awesome](https://fontawesome.com)
-* [React Icons](https://react-icons.github.io/react-icons/search)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/dangnq2501/TheraPose.ai.svg?style=for-the-badge
-[contributors-url]: https://github.com/othneildrew/Best-README-Template/graphs/contributors](https://github.com/dangnq2501/TheraPose.ai/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/dangnq2501/TheraPose.ai.svg?style=for-the-badge
-[forks-url]: https://github.com/dangnq2501/TheraPose.ai/network/members
-[stars-shield]: https://img.shields.io/github/stars/dangnq2501/TheraPose.ai.svg?style=for-the-badge
-[stars-url]: https://github.com/dangnq2501/TheraPose.ai/stargazers 
-[issues-shield]: https://img.shields.io/github/issues/dangnq2501/TheraPose.ai.svg?style=for-the-badge
-[issues-url]: https://github.com/dangnq2501/TheraPose.ai/issues
-[license-shield]: https://img.shields.io/github/license/dangnq2501/TheraPose.ai.svg?style=for-the-badge
-[license-url]: https://github.com/dangnq2501/TheraPose.ai/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/nhatdo94
-[product-screenshot]: images/screenshot.png
-[Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
-[Next-url]: https://nextjs.org/
-[React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
-[React-url]: https://reactjs.org/
-[Vue.js]: https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D
-[Vue-url]: https://vuejs.org/
-[Angular.io]: https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white
-[Angular-url]: https://angular.io/
-[Svelte.dev]: https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00
-[Svelte-url]: https://svelte.dev/
-[Laravel.com]: https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white
-[Laravel-url]: https://laravel.com
-[Bootstrap.com]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
-[Bootstrap-url]: https://getbootstrap.com
-[JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
-[JQuery-url]: https://jquery.com 
-[React-native-url]: https://reactnative.dev/
-[Java-Spring-url]: https://spring.io/
-[Java]: https://img.shields.io/badge/Java_Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white
-[React Native]: https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=white
-[PyTorch-badge]: https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white
-[PyTorch-url]: https://pytorch.org/
-[Jupyter-badge]: https://img.shields.io/badge/Jupyter-Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white
-[Jupyter-url]: https://jupyter.org/
-[Python-badge]: https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
-[Python-url]: https://www.python.org/
-[Docker-badge]: https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white
-[Docker-url]: https://www.docker.com/
-[PostgreSQL-badge]: https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white
-[PostgreSQL-url]: https://www.postgresql.org/
