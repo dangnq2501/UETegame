@@ -87,14 +87,28 @@
 
 <img src="images/Subscene.png" alt="Logo">
 
-In a landscape of healthcare and rehabilitation apps, TheraPose.ai emerges as a game-changer. Designed specifically for individuals undergoing physical therapy, TheraPose.ai utilizes cutting-edge computer vision technology to provide invaluable support during their recovery journey.
+## Key Features
 
-Here's why TheraPose.ai is a standout solution:
+* Gamify boring questions
+  - With this feature, teachers can pass in boring question files and Testeria will automatically convert it to fun card games to make students pay attention to the lesson. 
+* Hero profile
+  - Just like a character in a RPG game, each user will earn coins as a reward when finish the quiz game with high score. User can use coins to buy gun, skin for their own character.
+* Quiz game:
+  - The questions from teacher files will be transformed into a card game that take idea from dungeon. User's character have to choose which card to take. 
+  - If user choose monster card, a question will pop up and the animation of hero slaying monster will be played if user choose the correct answer.
+  - If user choose buff card, special buff will be given such as increasing health, increasing damage.
+* Clan: 
+  - A place where many players can join and experience clan games to gain coins and knownledge. Players can also contribute their own questions to clan.
+  - Can be used by teachers for their class to track each student progress and accuracy to support them.
+* Generated questions from documents: 
+  - Reduce the time needed to prepare questions by summarizing documents and then return a list of questions related to the documents.
 
-* Personalized rehabilitation: TheraPose.ai empowers patients to take control of their rehabilitation process by offering real-time feedback on their exercise performance. By accurately assessing their movements, the app ensures that patients are executing prescribed exercises correctly, minimizing the risk of further injury and maximizing therapeutic benefits.
-* Streamlined guidance: Say goodbye to uncertainty and guesswork. TheraPose.ai streamlines the rehabilitation process by offering clear, visual cues and corrections, guiding patients through each exercise with precision and clarity.
-* Empowering patients: With TheraPose.ai, patients can track their progress over time, witnessing tangible improvements in their mobility and strength. This visual representation of progress serves as a powerful motivator, encouraging patients to stay dedicated to their therapy regimen.
-While TheraPose.ai may not cater to every individual's specific therapy needs, it serves as a comprehensive and reliable tool for patients seeking to optimize their rehabilitation experience. We're committed to continually enhancing the app's features and functionalities and welcome contributions and feedback from the community. Together, we can make TheraPose.ai the ultimate companion for patients on their path to recovery.
+## Future Features
+- [ ] Review game - Players can join older games to review their lessons and pratice.
+- [ ] Implement new enviroments, mobs.
+- [ ] Increase types of answer.
+- [ ] Imporve scalability.
+- [ ] Reduce the time to convert question files to game.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
