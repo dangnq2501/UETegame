@@ -151,11 +151,11 @@ This section should list any major frameworks/libraries used to bootstrap your p
 * [![React][React.js]][React-url]
 * [![React][React Native]][React-native-url]
 * [![Java Spring][Java]][Java-Spring-url]
-* [![Langchain][PyTorch-badge]][Langchain-url]
+* [![Langchain][Langchain-badge]][Langchain-url]
 * [![Jupyter Notebook][Jupyter-badge]][Jupyter-url]
 * [![Python][Python-badge]][Python-url]
 * [![Docker][Docker-badge]][Docker-url]
-* [![Firebase][PostgreSQL-badge]][Firebase-url]
+* [![Firebase][Firebase-badge]][Firebase-url]
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
