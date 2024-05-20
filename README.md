@@ -328,6 +328,6 @@ Use this space to list resources you find helpful and would like to give credit 
 [PostgreSQL-badge]: https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white
 [PostgreSQL-url]: https://www.postgresql.org/
 [Firebase-url]: https://github.com/firebase/firebase-js-sdk
-[Firebase-badge]: https://img.shields.io/badge/Firebase-yellow?logo=firebase
+[Firebase-badge]: https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white
 [Langchain-url]: https://github.com/langchain-ai/langchain
-[Langchain-badge]: https://img.shields.io/badge/LangChain-orange
+[Langchain-badge]: https://img.shields.io/badge/LangChain-007ACC?style=for-the-badge&logo=langchain&logoColor=white
