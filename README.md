@@ -151,11 +151,11 @@ This section should list any major frameworks/libraries used to bootstrap your p
 * [![React][React.js]][React-url]
 * [![React][React Native]][React-native-url]
 * [![Java Spring][Java]][Java-Spring-url]
-* [![PyTorch][PyTorch-badge]][PyTorch-url]
+* [![Langchain][PyTorch-badge]][Langchain-url]
 * [![Jupyter Notebook][Jupyter-badge]][Jupyter-url]
 * [![Python][Python-badge]][Python-url]
 * [![Docker][Docker-badge]][Docker-url]
-* [![PostgreSQL][PostgreSQL-badge]][PostgreSQL-url]
+* [![Firebase][PostgreSQL-badge]][Firebase-url]
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -327,3 +327,7 @@ Use this space to list resources you find helpful and would like to give credit 
 [Docker-url]: https://www.docker.com/
 [PostgreSQL-badge]: https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white
 [PostgreSQL-url]: https://www.postgresql.org/
+[Firebase-url]: https://github.com/firebase/firebase-js-sdk
+[Firebase-badge]: https://img.shields.io/badge/Firebase-yellow?logo=firebase
+[Langchain-url]: https://github.com/langchain-ai/langchain
+[Langchain-badge]: https://img.shields.io/badge/LangChain-orange
