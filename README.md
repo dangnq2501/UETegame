@@ -149,10 +149,7 @@ This section should list any major frameworks/libraries used to bootstrap your p
 
 * [![Next][Next.js]][Next-url]
 * [![React][React.js]][React-url]
-* [![React][React Native]][React-native-url]
-* [![Java Spring][Java]][Java-Spring-url]
 * [![Langchain][Langchain-badge]][Langchain-url]
-* [![Jupyter Notebook][Jupyter-badge]][Jupyter-url]
 * [![Python][Python-badge]][Python-url]
 * [![Docker][Docker-badge]][Docker-url]
 * [![Firebase][Firebase-badge]][Firebase-url]
