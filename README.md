@@ -39,7 +39,7 @@
   <p align="center">
     Gamify Education !
     <br />
-    <a href="https://docs.google.com/document/d/1aWtDH2G4gPiaxGkMA0-cId9IRi-zybdaiva01PEjZ_0/edit?usp=sharing"><strong>Explore the docs »</strong></a>
+    <a href="https://docs.google.com/document/d/1aWtDH2G4gPiaxGkMA0-cId9IRi-zybdaiva01PEjZ_0/edit?usp=sharing"><strong>Reports »</strong></a>
     <br />
     <br />
     <a href="https://drive.google.com/drive/folders/1gjml1EzHOEZsediBeEE3WHov8ZpNF662?fbclid=IwZXh0bgNhZW0CMTAAAR1pbiWdD1sVQjVLkMm1_xgc5TIY5gZqxI9Hy4bJKAxCzZB2CVRy7Kz1JeU_aem_AeOdoqdP_NYA0uVzvXV1q4erwYd1v4rElfu2OFVg78xzKoLEzleEaiQSi9im0MXVenYji8KxwCCzFcG6er_PP71F">Google Drive for Video Demo and Reports</a>
